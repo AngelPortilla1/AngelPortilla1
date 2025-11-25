@@ -1,4 +1,4 @@
-# 👋 Hola, soy Ángel Giovany Portilla
+# 👋 Hola, soy Ángel 
 
 🎓 Estudiante / Desarrollador en formación  
 💻 Apasionado por la tecnología, la educación y la creación de proyectos útiles.  
