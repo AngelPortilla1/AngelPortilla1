@@ -4,11 +4,11 @@
 
 ### Desarrollador Full Stack | Estudiante | Creador de soluciones digitales
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Estudiante+apasionado;Desarrollador+en+formación;Creando+el+futuro+digital" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Estudiante+apasionado;Desarrollador+en+formación;Creando+el+futuro+digital)](https://git.io/typing-svg)
 
 📍 **Colombia** | 💼 **Disponible para colaborar**
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ag_portilla_/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/agportilla)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angelportihernan019@gmail.com)
 
 </div>
@@ -75,10 +75,13 @@ const angel = {
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 
 ### Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Herramientas y Diseño
@@ -95,11 +98,11 @@ const angel = {
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AngelPortilla1show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelPortilla1&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AngelPortilla1&theme=radical&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=radical&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF)
 
 </div>
 
@@ -127,7 +130,7 @@ const angel = {
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=AngelPortilla1O&color=6C63FF&style=for-the-badge&label=VISITAS+AL+PERFIL" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=TU_USUARIO&color=6C63FF&style=for-the-badge&label=VISITAS+AL+PERFIL" alt="Profile views" />
 
 **💼 Abierto a oportunidades | 🌟 Siempre aprendiendo | 🚀 Construyendo el futuro**
 
