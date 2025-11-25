@@ -7,8 +7,8 @@
 ---
 
 ### 🚧 Proyectos en construcción
-- 💡 Sistema educativo gamificado en Moodle
-- 🖥 Actividades interactivas para aprendizaje escolar
+- 💡 Web para programadores
+- 🖥 Sistema Ecommerce
 - 🔧 Explorando análisis de datos y programación
 
 ---
@@ -28,5 +28,3 @@
 
 ---
 
-### ✨ Frase que me inspira
-> *"El conocimiento crece cuando se comparte."*
