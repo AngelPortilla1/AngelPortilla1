@@ -95,11 +95,11 @@ const angel = {
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AngelPortilla1show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelPortilla1&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=radical&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AngelPortilla1&theme=radical&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF)
 
 </div>
 
@@ -127,7 +127,7 @@ const angel = {
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=TU_USUARIO&color=6C63FF&style=for-the-badge&label=VISITAS+AL+PERFIL" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=AngelPortilla1O&color=6C63FF&style=for-the-badge&label=VISITAS+AL+PERFIL" alt="Profile views" />
 
 **💼 Abierto a oportunidades | 🌟 Siempre aprendiendo | 🚀 Construyendo el futuro**
 
