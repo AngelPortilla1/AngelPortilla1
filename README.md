@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hola, soy Ángel Giovany Portilla
 
-<!--
-**AngelPortilla1/AngelPortilla1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante / Desarrollador en formación  
+💻 Apasionado por la tecnología, la educación y la creación de proyectos útiles.  
+📍 Colombia
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚧 Proyectos en construcción
+- 💡 Sistema educativo gamificado en Moodle
+- 🖥 Actividades interactivas para aprendizaje escolar
+- 🔧 Explorando análisis de datos y programación
+
+---
+
+### 🛠 Tecnologías y herramientas
+| Frontend | Backend | Otros |
+|----------|-----------|----------------|
+| HTML | Python | Git & GitHub |
+| CSS | SQL | Canva / Moodle |
+| JS | PHP | Figma |
+
+---
+
+### 📫 Conecta conmigo
+✉ **Correo:** angelportihernan019@gmail.com  
+🔗 **Instagram:** _pega tu usuario aquí_
+
+---
+
+### ✨ Frase que me inspira
+> *"El conocimiento crece cuando se comparte."*
