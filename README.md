@@ -8,7 +8,7 @@
 
 📍 **Colombia** | 💼 **Disponible para colaborar**
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/agportilla)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ag_portilla_/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angelportihernan019@gmail.com)
 
 </div>
@@ -30,7 +30,7 @@ const angel = {
 💡 Me encanta transformar ideas en código funcional  
 🌱 Actualmente expandiendo mis conocimientos en desarrollo web y análisis de datos  
 🎯 Enfocado en crear proyectos que solucionen problemas reales  
-⚡ Fun fact: Creo que la mejor forma de aprender es construyendo
+
 
 ---
 
@@ -98,11 +98,11 @@ const angel = {
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AngelPortilla1&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelPortilla1&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=radical&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AngelPortilla1&theme=radical&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF)
 
 </div>
 
@@ -126,11 +126,11 @@ const angel = {
 **¡No dudes en contactarme!**
 
 [![Email](https://img.shields.io/badge/Email-angelportihernan019@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angelportihernan019@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-@agportilla-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/agportilla)
+[![Instagram](https://img.shields.io/badge/Instagram-@agportilla-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ag_portilla_/)
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=TU_USUARIO&color=6C63FF&style=for-the-badge&label=VISITAS+AL+PERFIL" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=AngelPortilla1&color=6C63FF&style=for-the-badge&label=VISITAS+AL+PERFIL" alt="Profile views" />
 
 **💼 Abierto a oportunidades | 🌟 Siempre aprendiendo | 🚀 Construyendo el futuro**
 
