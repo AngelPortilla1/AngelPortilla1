@@ -61,7 +61,7 @@ const angel = {
         </p>
         <p>Sistema completo de comercio electrónico con gestión de inventario y pagos.</p>
         <p>
-          <code>PHP</code> <code>SQL</code> <code>JavaScript</code>
+          <code>Python</code> <code>SQLite</code> <code>JavaScript</code>
         </p>
       </div>
     </td>
