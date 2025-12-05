@@ -40,17 +40,19 @@ const angel = {
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🌐 Web para Programadores</h3>
-      <div align="center">
-        <p>
-          <strong>🚧 En desarrollo</strong>
-        </p>
-        <p>Plataforma diseñada para conectar y compartir recursos entre desarrolladores.</p>
-        <p>
-          <code>HTML</code> <code>CSS</code> <code>JavaScript</code>
-        </p>
-      </div>
-    </td>
+  <h3 align="center">
+    <a href="https://github.com/AngelPortilla1/DevCommunity" target="_blank">
+      🌐 Web para Programadores
+    </a>
+  </h3>
+  <div align="center">
+    <a href="https://github.com/AngelPortilla1/DevCommunity" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=AngelPortilla1&repo=DevCommunity&theme=radical" alt="DevCommunity Repo" />
+    </a>
+    <p>Plataforma diseñada para conectar y compartir recursos entre desarrolladores.</p>
+    <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
+  </div>
+</td>
     <td width="50%">
       <h3 align="center">🛒 Sistema Ecommerce</h3>
       <div align="center">
