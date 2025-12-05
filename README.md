@@ -98,15 +98,11 @@ const angel = {
 ---
 
 ## 📊 Estadísticas GitHub
-
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AngelPortilla1&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelPortilla1&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=AngelPortilla1&theme=radical&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF)
-
+  <img src="https://github-profile-trophy.vercel.app/?username=AngelPortilla1&theme=radical&no-frame=true&no-bg=true" alt="Trofeos de GitHub de AngelPortilla1"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AngelPortilla1&theme=react-dark&hide_border=true&bg_color=0D1117&color=6C63FF" alt="Gráfico de Actividad de GitHub de AngelPortilla1"/>
 </div>
 
 ---
