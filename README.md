@@ -47,7 +47,7 @@ const angel = {
   </h3>
   <div align="center">
     <a href="https://github.com/AngelPortilla1/DevCommunity" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=AngelPortilla1&repo=DevCommunity&theme=radical" alt="DevCommunity Repo" />
+      <img src="http://googleusercontent.com/image_generation_content/0" alt="Vista previa de DevCommunity" width="400" />
     </a>
     <p>Plataforma diseñada para conectar y compartir recursos entre desarrolladores.</p>
     <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
