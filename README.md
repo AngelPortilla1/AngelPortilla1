@@ -100,13 +100,12 @@ const angel = {
 ## 📊 Estadísticas GitHub
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AngelPortilla1&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AngelPortilla1&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AngelPortilla1&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AngelPortilla1&theme=radical&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelPortilla1&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF)
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=AngelPortilla1&theme=radical&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF)
 
 </div>
 
