@@ -42,7 +42,7 @@ const angel = {
     <td width="50%">
   <h3 align="center">
     <a href="https://github.com/AngelPortilla1/DevCommunity" target="_blank">
-      🌐 Web para Programadores
+      🌐 Web hecha para Programadores
     </a>
   </h3>
   <div align="center">
