@@ -99,7 +99,7 @@ const angel = {
 
 ## 📊 Estadísticas GitHub
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AngelPortilla1&theme=radical&no-frame=true&no-bg=true" alt="Trofeos de GitHub de AngelPortilla1"/>
+  <img src="https://github-profile-trophy-winning.vercel.app/?username=AngelPortilla1&theme=radical&no-frame=true&no-bg=true" alt="Trofeos de GitHub de AngelPortilla1"/>
 </div>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AngelPortilla1&theme=react-dark&hide_border=true&bg_color=0D1117&color=6C63FF" alt="Gráfico de Actividad de GitHub de AngelPortilla1"/>
