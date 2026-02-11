@@ -49,7 +49,7 @@ const angel = {
     <a href="https://github.com/AngelPortilla1/DevCommunity" target="_blank">
       <img src="https://github.com/AngelPortilla1/DevCommunity/blob/master/assets/Preview_devCommunity.png" alt="Vista previa de DevCommunity" width="400" />
     </a>
-    <p>Plataforma diseñada para conectar y compartir recursos entre desarrolladores.</p>
+    <p>Plataforma diseñada para conectar y compartir recursos y opiniones entre desarrolladores.</p>
     <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
   </div>
 </td>
