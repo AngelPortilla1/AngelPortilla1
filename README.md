@@ -2,7 +2,7 @@
   
 # 👨‍💻 Ángel Portilla
 
-### Desarrollador Full Stack | Estudiante | Creador de soluciones digitales
+### Desarrollador Full Stack | Estudiante | Creador de soluciones digitales.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Estudiante+apasionado;Desarrollador+en+formación;Creando+el+futuro+digital)](https://git.io/typing-svg)
 
