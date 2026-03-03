@@ -56,6 +56,7 @@ const angel = {
     <td width="50%">
       <h3 align="center">🛒 Sistema Ecommerce</h3>
       <div align="center">
+        <a href="https://github.com/AngelPortilla1/Ecommerce_React" tarjet="_blank">
         <img src="https://github.com/AngelPortilla1/Ecommerce_React/blob/main/src/assets/Preview_Ecommerce.png?raw=true" 
      alt="Vista previa del Ecommerce" width="400" />
         <p>
