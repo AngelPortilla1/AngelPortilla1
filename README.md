@@ -103,13 +103,7 @@ const angel = {
 
 <div align="left">
 
-🎓 Estructuras de Datos y Algoritmos en Python - Nombre de la Plataforma / Institución
-
-🏅 Desarrollo Moderno con Angular y Signals - Nombre de la Plataforma / Institución
-
-🎨 Diseño UI Avanzado con Tailwind CSS y DaisyUI - Nombre de la Plataforma / Institución
-
-🤖 Alfabetización y Fundamentos de Inteligencia Artificial - Nombre de la Plataforma / Institución
+🎓 Python para no Matematicos - Udemy / Institución
 
 
 </div>
