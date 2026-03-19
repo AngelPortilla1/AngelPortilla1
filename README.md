@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Estudiante+apasionado;Desarrollador+en+formación;Creando+el+futuro+digital)](https://git.io/typing-svg)
 
-📍 **Colombia** | 💼 **Disponible para colaborar **
+📍 **Colombia** | 💼 **Disponible para colaborar**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angel-portilla-18921215b/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ag_portilla_/)
