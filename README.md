@@ -103,7 +103,8 @@ const angel = {
 
 <div align="left">
 
-🎓 Python para no Matematicos - Udemy / Institución
+🎓 Python para no Matematicos - Udemy / Codigo369--AcademiaApps
+🎓 Analitica de datos con Herramientas Computacionales - Universidad de Pamplona
 
 
 </div>
