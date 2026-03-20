@@ -49,7 +49,7 @@ const angel = {
         <a href="https://github.com/AngelPortilla1/DevCommunity" target="_blank">
           <img src="https://github.com/AngelPortilla1/DevCommunity/blob/master/assets/Home.png" alt="Vista previa de DevCommunity" width="400" />
         </a>
-        <p>Plataforma diseñada para conectar desarrolladores, compartir recursos y opiniones en comunidad.</p>
+        <p>✅ <strong>Disponible</strong> — Plataforma para conectar desarrolladores, compartir recursos y opiniones en comunidad.</p>
         <p>
           <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
           <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
@@ -128,7 +128,7 @@ const angel = {
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AngelPortilla1&theme=radical)](https://github.com/AngelPortilla1)
 
-[![Trofeos](https://github-profile-trophy.vercel.app/?username=AngelPortilla1&theme=radical&no-frame=true&no-bg=true)](https://github.com/AngelPortilla1)
+[![Trofeos](https://github-profile-trophy.vercel.app/?username=AngelPortilla1&theme=radical&no-frame=true&no-bg=true)](https://github-profile-trophy.vercel.app/?username=AngelPortilla1&theme=radical&no-frame=true&no-bg=true)
 
 [![Gráfico de actividad](https://github-readme-activity-graph.vercel.app/graph?username=AngelPortilla1&theme=react-dark&hide_border=true&bg_color=0D1117&color=6C63FF)](https://github.com/AngelPortilla1)
 
