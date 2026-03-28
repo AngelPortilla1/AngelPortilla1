@@ -126,9 +126,8 @@ const angel = {
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AngelPortilla1&theme=radical&hide_border=true&border_radius=10)](https://git.io/streak-stats)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=AngelPortilla1&theme=radical&no-frame=true&no-bg=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Trofeos](https://github-profile-trophy.vercel.app/?username=AngelPortilla1&theme=radical&no-frame=true&no-bg=true)](https://github-profile-trophy.vercel.app/?username=AngelPortilla1&theme=radical&no-frame=true&no-bg=true)
 
 [![Gráfico de actividad](https://github-readme-activity-graph.vercel.app/graph?username=AngelPortilla1&theme=react-dark&hide_border=true&bg_color=0D1117&color=6C63FF)](https://github.com/AngelPortilla1)
 
