@@ -126,7 +126,7 @@ const angel = {
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AngelPortilla1&theme=radical)](https://github.com/AngelPortilla1)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AngelPortilla1&theme=radical&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 
 [![Trofeos](https://github-profile-trophy.vercel.app/?username=AngelPortilla1&theme=radical&no-frame=true&no-bg=true)](https://github-profile-trophy.vercel.app/?username=AngelPortilla1&theme=radical&no-frame=true&no-bg=true)
 
