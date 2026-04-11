@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Angel Portilla.
+# 👨‍💻 Angel Portilla
 
 ### Desarrollador Full Stack | Estudiante | Creador de soluciones digitales
 
