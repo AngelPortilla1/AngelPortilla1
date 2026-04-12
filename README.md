@@ -65,7 +65,7 @@ const angel = {
       </h3>
       <div align="center">
         <a href="https://github.com/AngelPortilla1/Ecommerce_React" target="_blank">
-          <img src="https://github.com/AngelPortilla1/Ecommerce_React/blob/main/src/assets/Preview_Ecommerce.png?raw=true" alt="Vista previa del Ecommerce" width="400" />
+          <img src="https://github.com/AngelPortilla1/Ecommerce_React/blob/main/src/assets/Preview_Ecommerce.png" alt="Vista previa del Ecommerce" width="400" />
         </a>
         <p>🚧 <strong>En desarrollo</strong> — Sistema completo de comercio electrónico con gestión de inventario y pagos.</p>
         <p>
