@@ -148,6 +148,6 @@ const angel = {
 
 <img src="https://komarev.com/ghpvc/?username=AngelPortilla1&color=6C63FF&style=for-the-badge&label=VISITAS+AL+PERFIL" alt="Profile views" />
 
-**💼 Abierto a oportunidades &nbsp;|&nbsp; 🌟 Siempre aprendiendo &nbsp;|&nbsp; 🚀 Construyendo el futuro**
+**💼 open to work &nbsp;|&nbsp; 🌟 Siempre aprendiendo &nbsp;|&nbsp; 🚀 Construyendo el futuro**
 
 </div>
