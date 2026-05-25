@@ -34,7 +34,23 @@ const angel = {
 - 👯 Abierto a colaborar en proyectos open source
 
 ---
+## 🔭 Actualmente
 
+<div align="left">
+
+🚀 **Desarrollando:**  
+Arquitectura Multiagente con FastApi, Pydantic
+
+📚 **Aprendiendo:**  
+Arquitectura de Agentes y despliegue.
+
+🤝 **Buscando:**  
+Colaboraciones en proyectos open source y oportunidades para seguir creciendo como desarrollador.
+
+🎯 **Objetivo actual:**  
+Construir aplicaciones útiles que resuelvan problemas reales y fortalecer mis habilidades en desarrollo web.
+
+</div>
 ## 💼 Proyectos Destacados
 
 <table>
