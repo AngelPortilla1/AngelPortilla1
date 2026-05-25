@@ -51,6 +51,7 @@ Colaboraciones en proyectos open source y oportunidades para seguir creciendo co
 Construir aplicaciones útiles que resuelvan problemas reales y fortalecer mis habilidades en desarrollo web.
 
 </div>
+
 ## 💼 Proyectos Destacados
 
 <table>
