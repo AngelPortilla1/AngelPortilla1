@@ -45,7 +45,7 @@ Arquitectura Multiagente con FastApi, Pydantic
 Arquitectura de Agentes y despliegue.
 
 🤝 **Buscando:**  
-Colaboraciones en proyectos open source y oportunidades para seguir creciendo como desarrollador.
+Colaboraciones en proyectos open source y oportunidades para seguir creciendo como desarrollador
 
 🎯 **Objetivo actual:**  
 Construir aplicaciones útiles que resuelvan problemas reales y fortalecer mis habilidades en desarrollo web.
