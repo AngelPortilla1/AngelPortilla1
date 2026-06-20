@@ -105,13 +105,13 @@ Construir aplicaciones útiles que resuelvan problemas reales y fortalecer mis h
 ### Investigador Universitario — Grupo de Investigación CICOM
 **Universidad de Pamplona**
 
-Participé como investigador en el grupo de investigación **CICOM (Comunicación, Información y Conocimiento)** de la Universidad de Pamplona, contribuyendo al desarrollo del proyecto **AlfabetIaRural**, una iniciativa enfocada en fortalecer la alfabetización en inteligencia artificial en comunidades rurales colombianas.
+Participé como investigador en el grupo de investigación **CICOM (Comunicación, Información y Conocimiento)** de la Universidad de Pamplona, contribuyendo al desarrollo del proyecto **AlfabetIaRural**, una iniciativa enfocada en fortalecer la alfabetización en inteligencia artificial en comunidades del nororiente Colombiano.
 
 ### 🚀 Proyecto: AlfabetIaRural
 
-🔹 Desarrollo de una arquitectura basada en agentes inteligentes para el acompañamiento educativo.
+🔹 Desarrollo de una arquitectura basada en agentes inteligentes para la caracterizacion de nescesidades de alfabetizacion en IA.
 
-🔹 Aplicación de metodologías de **etnografía digital** para la recolección, análisis e interpretación de conocimientos comunitarios.
+🔹 Aplicación de metodologías de **etnografía digital** para la recolección, análisis e interpretación de saberes y nescesidades comunitarios.
 
 🔹 Integración de modelos de lenguaje (LLMs) y sistemas multiagente para la construcción de asistentes conversacionales contextualizados.
 
