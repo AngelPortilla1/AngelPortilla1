@@ -90,8 +90,13 @@ const angel = {
       </h3>
       <div align="center">
 
-<img src="https://img.shields.io/badge/Investigación-CICOM-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Universidad-Pamplona-green?style=for-the-badge" />
+<a href="https://github.com/AngelPortilla1/Arquitectura-Multiagentes-Mediante-Etnografia-digital" target="_blank">
+  <img
+    src="https://github.com/AngelPortilla1/Arquitectura-Multiagentes-Mediante-Etnografia-digital/blob/main/fronted-alfabetia/src/assets/ChatEtnografico.png?raw=true"
+    alt="Vista previa AlfabetIaRural"
+    width="500"
+  />
+</a>
 
 <br><br>
 
