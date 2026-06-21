@@ -29,7 +29,7 @@ const angel = {
 ```
 
 - 💡 Me encanta transformar ideas en código funcional
-- 🌱 Expandiendo mis conocimientos en desarrollo web y análisis de datos
+- 🌱 Expandiendo mis conocimientos en desarrollo web e inteligencia artificial
 - 🎯 Enfocado en crear proyectos que resuelvan problemas reales
 - 👯 Abierto a colaborar en proyectos open source
 
@@ -100,29 +100,58 @@ Construir aplicaciones útiles que resuelvan problemas reales y fortalecer mis h
 
 ## 🔬 Experiencia en Investigación
 
-<div align="left">
+<table>
+  <tr>
+    <td width="100%">
+      <h3 align="center">
+        🚀 Proyecto de Investigación: AlfabetIaRural
+      </h3>
+      <div align="center">
 
-### Investigador Universitario — Grupo de Investigación CICOM
-**Universidad de Pamplona**
+<img src="https://img.shields.io/badge/Investigación-CICOM-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Universidad-Pamplona-green?style=for-the-badge" />
 
-Participé como investigador en el grupo de investigación **CICOM (Comunicación, Información y Conocimiento)** de la Universidad de Pamplona, contribuyendo al desarrollo del proyecto **AlfabetIaRural**, una iniciativa enfocada en fortalecer la alfabetización en inteligencia artificial en comunidades del nororiente Colombiano.
+<br><br>
 
-### 🚀 Proyecto: AlfabetIaRural
+<p>
+✅ <strong>Investigador Universitario</strong> — Grupo de Investigación CICOM
+</p>
 
-🔹 Desarrollo de una arquitectura basada en agentes inteligentes para la caracterizacion de nescesidades de alfabetizacion en IA.
-
-🔹 Aplicación de metodologías de **etnografía digital** para la recolección, análisis e interpretación de saberes y nescesidades comunitarios.
-
-🔹 Integración de modelos de lenguaje (LLMs) y sistemas multiagente para la construcción de asistentes conversacionales contextualizados.
-
-🔹 Participación en procesos de investigación, documentación científica y validación de resultados en contextos rurales.
-
-🔹 Contribución al diseño de herramientas tecnológicas orientadas a reducir la brecha de acceso y comprensión de la inteligencia artificial en comunidades con limitaciones de conectividad.
-
-**Tecnologías utilizadas:** Python · FastAPI · Pydantic · Sistemas Multiagente · IA Generativa · Etnografía Digital
+<p align="justify">
+Participé como investigador en el grupo de investigación
+<strong>CICOM (Comunicación, Información y Conocimiento)</strong>
+de la Universidad de Pamplona, contribuyendo al desarrollo del proyecto
+<strong>AlfabetIaRural</strong>, una iniciativa orientada a fortalecer
+la alfabetización en inteligencia artificial en comunidades del
+nororiente colombiano.
+</p>
 
 </div>
 
+### 🔹 Principales contribuciones
+
+- Desarrollo de una arquitectura basada en agentes inteligentes para la caracterización de necesidades de alfabetización en IA.
+- Aplicación de metodologías de etnografía digital para la recolección y análisis de información comunitaria.
+- Integración de modelos de lenguaje (LLMs) y sistemas multiagente para asistentes conversacionales contextualizados.
+- Participación en procesos de investigación, documentación científica y validación de resultados.
+- Diseño de herramientas tecnológicas para reducir la brecha de acceso y comprensión de la IA en zonas rurales.
+
+<div align="center">
+
+### 🛠 Tecnologías utilizadas
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" />
+<img src="https://img.shields.io/badge/Multi--Agent%20Systems-4B0082?style=flat-square" />
+<img src="https://img.shields.io/badge/Generative%20AI-FF6F00?style=flat-square" />
+<img src="https://img.shields.io/badge/Digital%20Ethnography-00897B?style=flat-square" />
+
+</div>
+
+</td>
+</tr>
+</table>
 ---
 
 ## 🛠️ Stack Tecnológico
