@@ -1,16 +1,14 @@
 <div align="center">
 
 # 👨‍💻 Angel Portilla
-<img src="https://github.com/AngelPortilla1/AngelPortilla1/blob/main/ImagenAssciPErfil.png" alt="Vista previa de DevCommunity" width="400" />
-### Desarrollador Full Stack | Estudiante | Creador de soluciones digitales
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Estudiante+apasionado;Desarrollador+en+formación;Creando+el+futuro+digital)](https://git.io/typing-svg)
+### Desarrollador Full Stack | Estudiante de Ingeniería de Sistemas | Creador de Soluciones Digitales
 
-📍 **Colombia** &nbsp;|&nbsp; 💼 **Disponible para colaborar o trabajar**
+<img src="https://github.com/AngelPortilla1/AngelPortilla1/blob/main/ImagenAssciPErfil.png" alt="Foto de perfil de Angel Portilla" width="700"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angel-portilla-18921215b/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ag_portilla_/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angelportihernan019@gmail.com)
+<br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Estudiante+apasionado+por+la+tecnología;Desarrollador+Full+Stack+en+formación;Construyendo+soluciones+con+IA;Aprendiendo+y+creando+cada+día)](https://git.io/typing-svg)
 
 </div>
 
