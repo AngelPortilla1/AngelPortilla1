@@ -104,7 +104,7 @@ const angel = {
 
 <p align="justify">
 Participé como investigador en el grupo de investigación
-<strong>CICOM (Comunicación, Información y Conocimiento)</strong>
+<strong>CICOM (Grupo de Ciencias Computacionales)</strong>
 de la Universidad de Pamplona, contribuyendo al desarrollo del proyecto
 <strong>AlfabetIaRural</strong>, una iniciativa orientada a fortalecer
 la alfabetización en inteligencia artificial en comunidades del
