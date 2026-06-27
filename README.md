@@ -90,7 +90,7 @@ const angel = {
 
 <a href="https://github.com/AngelPortilla1/Arquitectura-Multiagentes-Mediante-Etnografia-digital" target="_blank">
   <img
-    src="https://github.com/AngelPortilla1/Arquitectura-Multiagentes-Mediante-Etnografia-digital/blob/main/fronted-alfabetia/src/assets/ChatEtnografico.png?raw=true"
+    src="https://github.com/AngelPortilla1/Alfabet-IA-Rural---Etnografia-Aumentada-por-IA/blob/main/fronted-alfabetia/src/assets/ChatEtnografico.png?raw=true"
     alt="Vista previa AlfabetIaRural"
     width="500"
   />
