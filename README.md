@@ -2,7 +2,7 @@
 
 # 👨‍💻 Angel Portilla
 
-### Desarrollador Full Stack | Estudiante de Ingeniería de Sistemas | Creador de Soluciones Digitales.
+### Desarrollador Full Stack | Estudiante de Ingeniería de Sistemas | Creador de soluciones digitales y automatizacion.
 
 <img src="https://github.com/AngelPortilla1/AngelPortilla1/blob/main/ImagenAssciPErfil.png" alt="Foto de perfil de Angel Portilla" width="700"/>
 
