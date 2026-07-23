@@ -2,7 +2,7 @@
 
 # 👨‍💻 Angel Portilla
 
-### Desarrollador Full Stack | Estudiante de Ingeniería de Sistemas | Creador de soluciones digitales y automatizacion.
+### Desarrollador Full Stack | Ingeniero de sistemas | Creador de soluciones digitales y automatizacion.
 
 <img src="https://github.com/AngelPortilla1/AngelPortilla1/blob/main/ImagenAssciPErfil.png" alt="Foto de perfil de Angel Portilla" width="700"/>
 
@@ -19,7 +19,7 @@
 ```javascript
 const angel = {
     ubicación:  "Colombia 🇨🇴",
-    rol:        "Desarrollador Full Stack en formación",
+    rol:        "Desarrollador Full Stack",
     pasiones:   ["Tecnología", "Educación", "Innovación"],
     objetivo:   "Crear soluciones digitales que impacten positivamente",
     estado:     "Siempre aprendiendo 📚"
