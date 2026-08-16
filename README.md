@@ -177,6 +177,7 @@ nororiente colombiano.
 | Python para no Matemáticos | Udemy / Codigo369 – AcademiaApps |
 | Analítica de Datos con Herramientas Computacionales | Universidad de Pamplona |
 | Python Desde Cero | Pildoras de Programacion |
+| Git y Github Desde Cero | Pildoras de Programacion |
 
 </div>
 
