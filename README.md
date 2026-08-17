@@ -178,6 +178,7 @@ nororiente colombiano.
 | Analítica de Datos con Herramientas Computacionales | Universidad de Pamplona |
 | Python Desde Cero | Pildoras de Programacion |
 | Git y Github Desde Cero | Pildoras de Programacion |
+| Ai Capabilities and Limitations| Anthropic |
 
 </div>
 
