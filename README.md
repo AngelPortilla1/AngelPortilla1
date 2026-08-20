@@ -2,7 +2,7 @@
 
 # 👨‍💻 Angel Portilla
 
-### Desarrollador Full Stack | Ingeniero de sistemas | Creador de soluciones digitales y automatizacion.
+### Desarrollador Full Stack con enfoque en ingenieria de Datos| Ingeniero de sistemas | Creador de soluciones digitales y automatizacion.
 
 <img src="https://github.com/AngelPortilla1/AngelPortilla1/blob/main/ImagenAssciPErfil.png" alt="Foto de perfil de Angel Portilla" width="700"/>
 
@@ -179,6 +179,7 @@ nororiente colombiano.
 | Python Desde Cero | Pildoras de Programacion |
 | Git y Github Desde Cero | Pildoras de Programacion |
 | Ai Capabilities and Limitations| Anthropic |
+| Data Ai Literacy|DataBosters Academy |
 
 </div>
 
