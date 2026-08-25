@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Angel Portilla.
+# 👨‍💻 Angel Portilla
 
 ### Desarrollador Full Stack con enfoque en ingenieria de Datos| Ingeniero de sistemas | Creador de soluciones digitales y automatizacion.
 
