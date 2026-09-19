@@ -84,7 +84,7 @@ const angel = {
   <tr>
     <td width="100%">
       <h3 align="center">
-        🚀 Proyecto de Investigación: AlfabetIaRural
+         Proyecto de Investigación: AlfabetIaRural
       </h3>
       <div align="center">
 
