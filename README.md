@@ -180,6 +180,7 @@ nororiente colombiano.
 | Git y Github Desde Cero | Pildoras de Programacion |
 | Ai Capabilities and Limitations| Anthropic |
 | Data Ai Literacy|DataBosters Academy |
+| Manejo de datos con Pandas |DataBosters Academy |
 
 </div>
 
