@@ -22,7 +22,7 @@ const angel = {
     rol:        "Desarrollador Full Stack",
     pasiones:   ["Tecnología", "Educación", "Innovación"],
     objetivo:   "Crear soluciones digitales que impacten positivamente",
-    estado:     "Siempre aprendiendo 📚"
+    estado:     "Siempre aprendiendo "
 };
 ```
 
