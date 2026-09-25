@@ -2,7 +2,7 @@
 
 # 👨‍💻Angel Portilla
 
-### Desarrollador Full Stack con enfoque en ingenieria de Datos| Ingeniero de sistemas | Creador de soluciones digitales y automatizacion.
+### Desarrollador Full Stack con enfoque en ingenieria de Datos| Ingeniero de sistemas | Creador de soluciones digitales y automatizacion
 
 <img src="https://github.com/AngelPortilla1/AngelPortilla1/blob/main/ImagenAssciPErfil.png" alt="Foto de perfil de Angel Portilla" width="700"/>
 
