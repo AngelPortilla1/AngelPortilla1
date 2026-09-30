@@ -181,6 +181,7 @@ nororiente colombiano.
 | Ai Capabilities and Limitations| Anthropic |
 | Data Ai Literacy|DataBosters Academy |
 | Manejo de datos con Pandas |DataBosters Academy |
+| Data Analysis with Python |DataCamp |
 
 </div>
 
