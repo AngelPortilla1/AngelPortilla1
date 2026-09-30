@@ -182,6 +182,7 @@ nororiente colombiano.
 | Data Ai Literacy|DataBosters Academy |
 | Manejo de datos con Pandas |DataBosters Academy |
 | Data Analysis with Python |DataCamp |
+| SQL Fundamentals |DataCamp |
 
 </div>
 
