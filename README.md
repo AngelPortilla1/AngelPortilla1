@@ -27,7 +27,7 @@ const angel = {
 ```
 
 - 💡 Me encanta transformar ideas en código funcional
-- 🌱 Expandiendo mis conocimientos en desarrollo web e inteligencia artificial
+- 🌱 Expandiendo mis conocimientos en Data enginering
 - 🎯 Enfocado en crear proyectos que resuelvan problemas reales
 - 👯 Abierto a colaborar en proyectos open source
 
