@@ -19,7 +19,7 @@
 ```javascript
 const angel = {
     ubicación:  "Colombia 🇨🇴",
-    rol:        "Desarrollador Full Stack",
+    rol:        "Desarrollador Full Stack,Data Enginner",
     pasiones:   ["Tecnología", "Educación", "Innovación"],
     objetivo:   "Crear soluciones digitales que impacten positivamente",
     estado:     "Siempre aprendiendo "
