@@ -184,6 +184,8 @@ nororiente colombiano.
 | Data Analysis with Python |DataCamp |
 | SQL Fundamentals |DataCamp |
 | SQL Intermedio |DataCamp |
+| Comprender la ingenieria de Datos |DataCamp |
+
 
 </div>
 
