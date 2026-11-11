@@ -1,14 +1,14 @@
 <div align="center">
 
-# 👨‍💻Angel Portilla!
+# 👨‍💻 Angel Portilla
 
-### Desarrollador Full Stack con enfoque en ingenieria de Datos| Ingeniero de sistemas | Creador de soluciones digitales y automatizacion
+### Data Analyst | Aspirante a Data Engineer Jr | Ingeniero de Sistemas
 
-<img src="https://github.com/AngelPortilla1/AngelPortilla1/blob/main/ImagenAssciPErfil.png" alt="Foto de perfil de Angel Portilla" width="700"/>
+<img src="https://github.com/AngelPortilla1/AngelPortilla1/blob/main/ImagenAssciPErfil.png?raw=true" alt="Foto de perfil de Angel Portilla" width="700"/>
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Estudiante+apasionado+por+la+tecnología;Desarrollador+Full+Stack+en+formación;Construyendo+soluciones+con+IA;Aprendiendo+y+creando+cada+día)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Analista+de+datos+en+formación;Rumbo+a+Data+Engineer+Jr;Pipelines+ETL+con+Airflow+y+DuckDB;Dashboards+en+Power+BI)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,66 +16,90 @@
 
 ## 🚀 Sobre mí
 
-```javascript
-const angel = {
-    ubicación:  "Colombia 🇨🇴",
-    rol:        "Desarrollador Full Stack,Data Enginner",
-    pasiones:   ["Tecnología", "Educación", "Innovación"],
-    objetivo:   "Crear soluciones digitales que impacten positivamente",
-    estado:     "Siempre aprendiendo "
-};
+```python
+angel = {
+    "ubicacion": "Colombia 🇨🇴",
+    "rol": "Data Analyst | Futuro Data Engineer Jr",
+    "foco": ["Pipelines ETL", "SQL", "Power BI", "IA aplicada"],
+    "objetivo": "Convertir datos en decisiones y soluciones con impacto",
+    "estado": "Siempre aprendiendo",
+}
 ```
 
-- 💡 Me encanta transformar ideas en código funcional y practico
-- 🌱 Expandiendo mis conocimientos en Data enginering
-- 🎯 Enfocado en crear proyectos que resuelvan problemas reales
-- 👯 Abierto a colaborar en proyectos open source
+- 📊 Ingeniero de Sistemas enfocado en análisis e ingeniería de datos
+- ⚙️ Construyo pipelines ETL con Airflow, Polars y DuckDB
+- 📈 Diseño dashboards interactivos en Power BI
+- 🔬 Investigador en el grupo CICOM, aplicando IA y sistemas multiagente
+- 👯 Abierto a colaborar en proyectos de datos y open source
 
+---
 
-## 💼 Proyectos Destacados
+## 📊 Proyectos de Datos
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="33%" valign="top">
       <h3 align="center">
-        <a href="https://github.com/AngelPortilla1/DevCommunity" target="_blank">
-          🌐 DevCommunity
+        <a href="https://github.com/AngelPortilla1/Dags---Airflow" target="_blank">
+          ⚙️ Crypto Dashboard con Airflow
         </a>
       </h3>
       <div align="center">
-        <a href="https://github.com/AngelPortilla1/DevCommunity" target="_blank">
-          <img src="https://github.com/AngelPortilla1/DevCommunity/blob/master/assets/Home.png" alt="Vista previa de DevCommunity" width="400" />
+        <a href="https://github.com/AngelPortilla1/Dags---Airflow" target="_blank">
+          <img src="https://github.com/AngelPortilla1/Dags---Airflow/raw/master/docs/crypto-pipeline.svg" alt="Flujo del pipeline de Airflow" width="250" />
         </a>
-        <p>✅ <strong>Disponible</strong> — Plataforma para conectar desarrolladores, compartir recursos y opiniones en comunidad.</p>
+        <p align="justify">
+        Pipeline orquestado con <strong>Apache Airflow</strong> que consulta las 20 principales criptomonedas desde la API de CoinGecko, las procesa con pandas y genera métricas y un dashboard consolidado. El DAG corre diariamente.
+        </p>
         <p>
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+          <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+          <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+          <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
         </p>
       </div>
     </td>
-    <td width="50%">
+    <td width="33%" valign="top">
       <h3 align="center">
-        <a href="https://github.com/AngelPortilla1/Ecommerce_React" target="_blank">
-          🛒 Sistema Web Ecommerce
+        <a href="https://github.com/AngelPortilla1/OpenEtl-DuckDB" target="_blank">
+          🦆 Open-Data ETL: Socrata a DuckDB
         </a>
       </h3>
       <div align="center">
-        <a href="https://github.com/AngelPortilla1/Ecommerce_React" target="_blank">
-          <img src="https://github.com/AngelPortilla1/Ecommerce_React/blob/main/src/assets/Preview_Ecommerce.png" alt="Vista previa del Ecommerce" width="400" />
-        </a>
-        <p>🚧 <strong>En desarrollo</strong> — Sistema completo de comercio electrónico con gestión de inventario y pagos.</p>
+        <p align="justify">
+        Pipeline ETL end-to-end que extrae datos de la API de Datos Abiertos de Colombia (Socrata) con paginación, los transforma con <strong>Polars</strong> y los carga en <strong>DuckDB</strong> mediante Apache Arrow (zero-copy) para análisis con SQL.
+        </p>
         <p>
-          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-          <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/Polars-CD792C?style=flat-square&logo=polars&logoColor=white" />
+          <img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black" />
+          <img src="https://img.shields.io/badge/Apache%20Arrow-3EAAAF?style=flat-square&logo=apache&logoColor=white" />
+        </p>
+      </div>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">
+        <a href="https://github.com/AngelPortilla1/powerbi-fitness-life-dashboard" target="_blank">
+          🏋️ Dashboard Power BI – Fitness Life
+        </a>
+      </h3>
+      <div align="center">
+        <a href="https://github.com/AngelPortilla1/powerbi-fitness-life-dashboard" target="_blank">
+          <img src="https://github.com/AngelPortilla1/powerbi-fitness-life-dashboard/raw/main/img/Portada_1.png" alt="Portada del dashboard Fitness Life" width="250" />
+        </a>
+        <p align="justify">
+        Dashboard interactivo para una empresa ficticia del sector fitness. Cubre el flujo completo de BI: limpieza con Power Query, modelado de datos, medidas DAX y KPIs, visualización y publicación en Power BI Service.
+        </p>
+        <p>
+          <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+          <img src="https://img.shields.io/badge/DAX-F2C811?style=flat-square" />
+          <img src="https://img.shields.io/badge/Power%20Query-F2C811?style=flat-square" />
         </p>
       </div>
     </td>
   </tr>
 </table>
 
----
 ---
 
 ## 🔬 Experiencia en Investigación
@@ -137,28 +161,35 @@ nororiente colombiano.
 </td>
 </tr>
 </table>
+
 ---
 
 ## 🛠️ Stack Tecnológico
 
 <div align="center">
 
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Vite.js](https://img.shields.io/badge/Vite.js-4FC08D?style=for-the-badge&logo=vite.js&logoColor=white)
-
-### ⚙️ Backend
+### 🔄 Ingeniería de Datos
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
+![Polars](https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logo=polars&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### 🗄️ Bases de Datos & Análisis
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+### ⚙️ Desarrollo & IA
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🧰 Herramientas & Diseño
+### 🧰 Herramientas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -174,18 +205,17 @@ nororiente colombiano.
 
 | 🎓 Certificación | 🏫 Institución |
 |---|---|
-| Python para no Matemáticos | Udemy / Codigo369 – AcademiaApps |
+| Comprender la Ingeniería de Datos | DataCamp |
+| SQL Intermedio | DataCamp |
+| SQL Fundamentals | DataCamp |
+| Data Analysis with Python | DataCamp |
+| Manejo de Datos con Pandas | DataBoosters Academy |
+| Data AI Literacy | DataBoosters Academy |
 | Analítica de Datos con Herramientas Computacionales | Universidad de Pamplona |
-| Python Desde Cero | Pildoras de Programacion |
-| Git y Github Desde Cero | Pildoras de Programacion |
-| Ai Capabilities and Limitations| Anthropic |
-| Data Ai Literacy|DataBosters Academy |
-| Manejo de datos con Pandas |DataBosters Academy |
-| Data Analysis with Python |DataCamp |
-| SQL Fundamentals |DataCamp |
-| SQL Intermedio |DataCamp |
-| Comprender la ingenieria de Datos |DataCamp |
-
+| AI Capabilities and Limitations | Anthropic |
+| Python para no Matemáticos | Udemy / Codigo369 – AcademiaApps |
+| Python Desde Cero | Píldoras de Programación |
+| Git y GitHub Desde Cero | Píldoras de Programación |
 
 </div>
 
@@ -197,7 +227,6 @@ nororiente colombiano.
 
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=AngelPortilla1&theme=radical)
 
-
 [![Gráfico de actividad](https://github-readme-activity-graph.vercel.app/graph?username=AngelPortilla1&theme=react-dark&hide_border=true&bg_color=0D1117&color=6C63FF)](https://github.com/AngelPortilla1)
 
 </div>
@@ -208,15 +237,16 @@ nororiente colombiano.
 
 <div align="center">
 
-¿Tienes un proyecto en mente o quieres colaborar? **¡No dudes en contactarme!**
+¿Tienes un proyecto de datos en mente o quieres colaborar? **¡No dudes en contactarme!**
 
 [![Email](https://img.shields.io/badge/Email-angelportihernan019@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angelportihernan019@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Angel%20Portilla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angel-portilla-18921215b/)
 [![Instagram](https://img.shields.io/badge/Instagram-@ag__portilla__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ag_portilla_/)
 
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=AngelPortilla1&color=6C63FF&style=for-the-badge&label=VISITAS+AL+PERFIL" alt="Profile views" />
 
-**💼 open to work &nbsp;|&nbsp; 🌟 Siempre aprendiendo &nbsp;|&nbsp; 🚀 Construyendo el futuro**
+**💼 Open to work &nbsp;|&nbsp; 📊 Data Analyst / Data Engineer Jr &nbsp;|&nbsp; 🚀 Siempre aprendiendo**
 
 </div>
