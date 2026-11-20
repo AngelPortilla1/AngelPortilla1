@@ -216,6 +216,7 @@ nororiente colombiano.
 | Python para no Matemáticos | Udemy / Codigo369 – AcademiaApps |
 | Python Desde Cero | Píldoras de Programación |
 | Git y GitHub Desde Cero | Píldoras de Programación |
+| Python para desarrolladores Intermedio| DataCamp |
 
 </div>
 
