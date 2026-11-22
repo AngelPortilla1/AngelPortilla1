@@ -35,10 +35,32 @@ angel = {
 ---
 
 ## 📊 Proyectos de Datos
-
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
+      <h3 align="center">
+        <a href="https://github.com/AngelPortilla1/mercado-inmobiliario-nds" target="_blank">
+          🏘️ Mercado Inmobiliario en Norte de Santander
+        </a>
+      </h3>
+      <div align="center">
+        <a href="https://github.com/AngelPortilla1/mercado-inmobiliario-nds" target="_blank">
+          <img src="https://github.com/AngelPortilla1/mercado-inmobiliario-nds/raw/main/docs/arquitectura_excalidraw.jpg" alt="Arquitectura de datos Mercado Inmobiliario Norte de Santander" width="380" />
+        </a>
+        <p align="justify">
+        Proyecto end-to-end que recolecta semanalmente avisos de vivienda en Pamplona, Cúcuta, Los Patios y Villa del Rosario bajo reglas éticas (<code>robots.txt</code> y cero PII), aplica 9 reglas auditables de limpieza validadas con códigos <strong>DANE DIVIPOLA</strong>, modela un <strong>esquema estrella SQL</strong> y estima intervalos de confianza por <strong>Bootstrap (95%)</strong> para muestras pequeñas.
+        </p>
+        <p>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+          <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+          <img src="https://img.shields.io/badge/Statsmodels-3F51B5?style=flat-square" />
+          <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
+          <img src="https://img.shields.io/badge/uv-DE5FE9?style=flat-square&logo=uv&logoColor=white" />
+        </p>
+      </div>
+    </td>
+    <td width="50%" valign="top">
       <h3 align="center">
         <a href="https://github.com/AngelPortilla1/Dags---Airflow" target="_blank">
           ⚙️ Crypto Dashboard con Airflow
@@ -46,7 +68,7 @@ angel = {
       </h3>
       <div align="center">
         <a href="https://github.com/AngelPortilla1/Dags---Airflow" target="_blank">
-          <img src="https://github.com/AngelPortilla1/Dags---Airflow/raw/master/docs/crypto-pipeline.svg" alt="Flujo del pipeline de Airflow" width="250" />
+          <img src="https://github.com/AngelPortilla1/Dags---Airflow/raw/master/docs/crypto-pipeline.svg" alt="Flujo del pipeline de Airflow" width="320" />
         </a>
         <p align="justify">
         Pipeline orquestado con <strong>Apache Airflow</strong> que consulta las 20 principales criptomonedas desde la API de CoinGecko, las procesa con pandas y genera métricas y un dashboard consolidado. El DAG corre diariamente.
@@ -59,7 +81,9 @@ angel = {
         </p>
       </div>
     </td>
-    <td width="33%" valign="top">
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3 align="center">
         <a href="https://github.com/AngelPortilla1/OpenEtl-DuckDB" target="_blank">
           🦆 Open-Data ETL: Socrata a DuckDB
@@ -77,7 +101,7 @@ angel = {
         </p>
       </div>
     </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <h3 align="center">
         <a href="https://github.com/AngelPortilla1/powerbi-fitness-life-dashboard" target="_blank">
           🏋️ Dashboard Power BI – Fitness Life
@@ -85,7 +109,7 @@ angel = {
       </h3>
       <div align="center">
         <a href="https://github.com/AngelPortilla1/powerbi-fitness-life-dashboard" target="_blank">
-          <img src="https://github.com/AngelPortilla1/powerbi-fitness-life-dashboard/raw/main/img/Portada_1.png" alt="Portada del dashboard Fitness Life" width="250" />
+          <img src="https://github.com/AngelPortilla1/powerbi-fitness-life-dashboard/raw/main/img/Portada_1.png" alt="Portada del dashboard Fitness Life" width="320" />
         </a>
         <p align="justify">
         Dashboard interactivo para una empresa ficticia del sector fitness. Cubre el flujo completo de BI: limpieza con Power Query, modelado de datos, medidas DAX y KPIs, visualización y publicación en Power BI Service.
@@ -99,7 +123,6 @@ angel = {
     </td>
   </tr>
 </table>
-
 ---
 
 ## 🔬 Experiencia en Investigación
