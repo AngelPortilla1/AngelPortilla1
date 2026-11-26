@@ -101,26 +101,21 @@ angel = {
         </p>
       </div>
     </td>
-    <td width="50%" valign="top">
+    <td colspan="2" valign="top">
       <h3 align="center">
-        <a href="https://github.com/AngelPortilla1/powerbi-fitness-life-dashboard" target="_blank">
-          🏋️ Dashboard Power BI – Fitness Life
+        <a href="https://github.com/AngelPortilla1/skylake-databricks" target="_blank">
+          ✈️ SkyLake: Observatorio de Tráfico Aéreo en Databricks
         </a>
       </h3>
       <div align="center">
-        <a href="https://github.com/AngelPortilla1/powerbi-fitness-life-dashboard" target="_blank">
-          <img src="https://github.com/AngelPortilla1/powerbi-fitness-life-dashboard/raw/main/img/Portada_1.png" alt="Portada del dashboard Fitness Life" width="320" />
+        <a href="https://github.com/AngelPortilla1/skylake-databricks" target="_blank">
+          <img src="https://github.com/AngelPortilla1/skylake-databricks/raw/main/docs/arquitectura_excalidraw.jpg" alt="Arquitectura Lakehouse SkyLake en Databricks" width="720" />
         </a>
         <p align="justify">
-        Dashboard interactivo para una empresa ficticia del sector fitness. Cubre el flujo completo de BI: limpieza con Power Query, modelado de datos, medidas DAX y KPIs, visualización y publicación en Power BI Service.
+        Lakehouse end-to-end construido sobre <strong>Databricks Free Edition</strong> con telemetría real ADS-B de <strong>OpenSky Network</strong> sobre América Latina. Implementa ingesta incremental desacoplada con <strong>GitHub Actions</strong> hacia <strong>Unity Catalog Volumes</strong>, arquitectura <strong>Medallion</strong> declarativa con Auto Loader, reglas de calidad (Expectations y cuarentena), deduplicación e historial dimensional con <strong>AUTO CDC (SCD Tipo 1 y 2)</strong>, indexación geoespacial <strong>H3</strong>, Liquid Clustering e infraestructura como código con <strong>Databricks Asset Bundles (DABs)</strong>.
         </p>
         <p>
-          <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-          <img src="https://img.shields.io/badge/DAX-F2C811?style=flat-square" />
-          <img src="https://img.shields.io/badge/Power%20Query-F2C811?style=flat-square" />
-        </p>
-      </div>
-    </td>
+          <img
   </tr>
 </table>
 ---
